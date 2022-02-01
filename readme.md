@@ -72,6 +72,9 @@ To get more information about me and my technical skill please download my portf
 <!-- I am a Flutter & Experienced Project Head with a demonstrated history of working in the education management industry. Skilled in SolidWorks, Presentation Skills, Atmel AVR, Arduino, and Soft Skills. Strong operations professional graduated from Faculty of engineering - Helwan university.  Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/> -->
 - 📚 I’m currently learning database (web backend) with mysql and django framework
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-7018)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![samir's github stats](https://github-readme-stats.vercel.app/api?username=Mohamed-7018&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-7018&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
