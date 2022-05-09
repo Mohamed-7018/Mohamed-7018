@@ -126,12 +126,17 @@ To get more information about me and my technical skill please download my portf
 -	Flutter & Dart [The Complete Guide] - [Online Course] <br/>
 -	Flutter & Firebase: Build a complete App for IOS & Android – Code with Andrea <br/>
 -	Flutter with Firebase&Stripe Build shop app from scratch<br/>
+-	Space Engineering and technology internship - Winter Space School<br/>
 -	Computer-Delivered Academic IELTS Exam – British Council<br/>
 -	Participating in google hash code online qualifications<br/>
 -	Organizing pixels 21 virtual Hash code hub<br/>
+-	Problem Solving (Basic) - HackerRank
 -	Python – University of Michigan<br/>
+-	Data Analysis - Challenger -  FWD -Udacity Track<br/>
+
 
 ## COURSES AND CERTIFICATIONS [Electrical Power]-[Mechanical]
+- Space Engineering and technology internship - Winter Space School<br/>
 - Egyptian Universities Training Satellite Project with EgSA-Egyptian Space Agency
 - Distribution course with Electrical Engineering Experts<br/>
 - Solar Energy Course with ICG<br/>
@@ -143,6 +148,7 @@ To get more information about me and my technical skill please download my portf
 - Mechanical design at the level of associate (CSWA)
 
 ## Work Experience
+-  MOBILE DEVELOPER, Egtaz  (08/2021 – Present)[Mobile Development using Flutter framework]
 - MOBILE DEVELOPER, KHEIR, BARAKA AND NEW WOMAN FOUNDATION (08/2021 – Present)[Mobile Development using Flutter framework]
 - Freelancer - Upwork  (06/2021 – Present) [Mobile Development using Flutter framework]<br/>
 
@@ -153,6 +159,11 @@ To get more information about me and my technical skill please download my portf
 - ACADEMIC INSTRUCTOR - PIXELS EGYPT ORG.(2019 - PRESENT)
 
 ## Complete Flutter Apps
+o Muslim Guide App<br/>
+o Grocery App with PHP Laravel admin panel<br/>
+o Multi Vendor store app with PHP Laravel admin panel<br/>
+o Restaurant App with PHP Larrael admin panel<br/>
+o Online MultiVendor Store With Flutter and Firebase<br/>
 o IEEE BUSB App <br/>
 o HR App <br/>
 o Code Hand Book App <br/>
