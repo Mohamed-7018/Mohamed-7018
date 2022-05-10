@@ -51,16 +51,22 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 <br>
 
 
-## My Portfolio App
-To get more information about me and my technical skill please download my portfolio app.
+## My Portfolio 
+To get more information about me and my technical skill please visit my website or download my portfolio app.
 
   <h3 align="center" >
+ <a href="https://drive.google.com/drive/folders/1uKlSlhoh30qzP5l8bscwbThiAcPARaK2?usp=sharing">
+ <img src="https://user-images.githubusercontent.com/80456446/167701490-d85af839-f2df-41cd-9466-3b69e4ac2014.png" height="60" width="150"
+         alt="Get it on web">
+ </a>
+   
   <a href="https://drive.google.com/drive/folders/1uKlSlhoh30qzP5l8bscwbThiAcPARaK2?usp=sharing">
  <img src="https://user-images.githubusercontent.com/80456446/140654179-eca56dba-e3a6-4076-8625-de71d8a3a249.png" height="60"
          alt="Get it on Android">
  </a>
    </h3>
  </br>
+ 
  
 
 ## Profile
