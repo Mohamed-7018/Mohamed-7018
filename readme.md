@@ -1,4 +1,6 @@
-## Hello World 🌍 I'm Mohamed Samir Salem! 👋 
+<h1 align="center">Hello World 🌍,  I'm Mohamed Samir Salem!👋 </h1>
+<h3 align="center">Software Engineer || Flutter Developer</h3>
+
 
 <a href="https://www.facebook.com/mohamed.almasri.5686/">
   <img align="left" alt="Mohamed-7018 | Fcebook" width="24px" src="/assets/facebook.svg"/>
@@ -47,11 +49,11 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif"  height="20px" /> I’m **good** in **Flutter mobile apps development, Front End Development, UI** and **Backend Development, Flutter**💪.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> I’m *looking to collaborate* on **Flutter projects** 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif"  height="20px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
--  📚 I’m currently learning database (web backend) with mysql and django framework
+-  📚 I’m currently learning database (web backend) with java spring boot framework
 <br>
 
 
-## My Portfolio 
+<h1 align="center">🌍 My Profile 🌍 </h1>
 To get more information about me and my technical skill please visit my website or download my portfolio app.
 
   <h3 align="center" >
@@ -69,14 +71,9 @@ To get more information about me and my technical skill please visit my website 
  
  
 
-## Profile
--	Student in  faculty of engineering, Helwan university. I study Electrical engineering in Helwan university, electrical Machines & Power department. I have got an "Excellent" accumulative three years grade.<br />
--	Projects & Contests head in pixels Egypt, with 2+ years of experience in the embedded systems and mechanical design track.<br />
--	Flutter Head in IEEE BUSB, with 2+ years of experience in mobile development with flutter.<br />
--	Solar energy engineer with 3+ years of experience in installing solar Power parks.<br />
--	Academic instructor in different tracks like Arduino, Solidworks, Solar energy & Flutter, With 2+ years of experience as an academic instructor.<br />
-<!-- I am a Flutter & Experienced Project Head with a demonstrated history of working in the education management industry. Skilled in SolidWorks, Presentation Skills, Atmel AVR, Arduino, and Soft Skills. Strong operations professional graduated from Faculty of engineering - Helwan university.  Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/> -->
-- 📚 I’m currently learning database (web backend) with mysql and django framework
+<h1 align="center"><code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ My Github Profile 🌍 </h1>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-7018)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -127,60 +124,37 @@ To get more information about me and my technical skill please visit my website 
 <br/><br/><br/><br/>
 <br/> <br/> -->
 
-## COURSES AND CERTIFICATIONS [Programming]
-- Flutter with Firebase&Stripe Build shop app from scratch <br/>
--	Flutter & Dart [The Complete Guide] - [Online Course] <br/>
--	Flutter & Firebase: Build a complete App for IOS & Android – Code with Andrea <br/>
--	Flutter with Firebase&Stripe Build shop app from scratch<br/>
--	Space Engineering and technology internship - Winter Space School<br/>
--	Computer-Delivered Academic IELTS Exam – British Council<br/>
--	Participating in google hash code online qualifications<br/>
--	Organizing pixels 21 virtual Hash code hub<br/>
--	Problem Solving (Basic) - HackerRank
--	Python – University of Michigan<br/>
--	Data Analysis - Challenger -  FWD -Udacity Track<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-7018&theme=jolly)<br/>
+
+<h1 align="center"><code><img height="50px" src="https://user-images.githubusercontent.com/80456446/225200420-f3835075-e0e5-4ccb-983a-487b326bb549.png"></code>
+ MY FLUTTER AWESOME PROJECTS   🌍 </h1>
+
+- [x]	Multi-Vendor Ecommerce app & Firebase  Ecommerce - [Flutter Awesome](https://flutterawesome.com/ecommerce-app-with-firebase-and-flutter/)
+- [x]	Muslim Guide App: Muslim Guide App - [Flutter Awesome](https://flutterawesome.com/muslim-guide-app-built-with-flutter/)
+- [x] Coca Cola Animates Splash Screen - [Flutter Awesome](https://flutterawesome.com/simple-animated-cola-splash-screen-as-shown-below/)
+- [x]	Flurry Drawer: Flurry Drawer - [Flutter Awesome](https://flutterawesome.com/a-beautful-drawer-for-flutter/)
+- [x]	Draggable_customized_btn_navy_bar package [pub.dev ](https://pub.dev/packages/draggable_customized_btn_navy_bar), [Flutter Awesome](https://flutterawesome.com/a-bottom-navigation-bar-that-you-can-customize-with-the-options-you-need/)
 
 
-## COURSES AND CERTIFICATIONS [Electrical Power]-[Mechanical]
-- Space Engineering and technology internship - Winter Space School<br/>
-- Egyptian Universities Training Satellite Project with EgSA-Egyptian Space Agency
-- Distribution course with Electrical Engineering Experts<br/>
-- Solar Energy Course with ICG<br/>
-- Installing 280KW Solar park with Ebtikar Factor <br/>
-- Substation Protection, Training Network Center<br>
-- Classic control, Training Network Center <br/>
-- Safe operation of substation, Training Network Center<br/>
-- Components of substation, Training Network Center<br/>
-- Mechanical design at the level of associate (CSWA)
+<h1 align="center"><code><img height="50px" src="https://user-images.githubusercontent.com/80456446/225202053-7afc6eec-2365-4ea2-ae65-0b4ffcd1bce6.png"></code>
+ MY FLUTTER AWESOME PROJECTS   🌍 </h1>
 
-## Work Experience
--  MOBILE DEVELOPER, Egtaz  (08/2021 – Present)[Mobile Development using Flutter framework]
-- MOBILE DEVELOPER, KHEIR, BARAKA AND NEW WOMAN FOUNDATION (08/2021 – Present)[Mobile Development using Flutter framework]
-- Freelancer - Upwork  (06/2021 – Present) [Mobile Development using Flutter framework]<br/>
-
-## Volunteering 
-- ADVISOR – PIXELS EGYPT ORG. (2021 - PRESENT)
-- PROJECTS & CONTESTS HEAD – PIXELS EGYPT ORG.(2020-2021)
-- FLUTTER HEAD – IEEE BUSB. (2020-2021)
-- ACADEMIC INSTRUCTOR - PIXELS EGYPT ORG.(2019 - PRESENT)
-
-## Complete Flutter Apps
-o Muslim Guide App<br/>
-o Grocery App with PHP Laravel admin panel<br/>
-o Multi Vendor store app with PHP Laravel admin panel<br/>
-o Restaurant App with PHP Larrael admin panel<br/>
-o Online MultiVendor Store With Flutter and Firebase<br/>
-o IEEE BUSB App <br/>
-o HR App <br/>
-o Code Hand Book App <br/>
-o Students Attendance App<br/>
-o Smart Home App<br/>
-o Solar Calculations App<br/>
-o Pixels App<br/>
+- [x] Makers Creed Website - [Website Link](https://makerscreed.net/)
+- [ ]	Smart-Home app with VOLTX (will be published soon) 
+- [ ]	Smart-Irrigation app with VOLTX (will be published soon) 
+- [x]	Space Rocket Calculations App – Samra University [Project Link](https://github.com/Mohamed-7018/Rcoket-Design-App---Samara---Space-Engineering-and-technology-internship---Winter-Space-School/)
+- [x]	EGTAZ Multi-Vendor Ecommerce with admin panel [LADISTAA Store](https://play.google.com/store/apps/details?id=com.ladistaa.egtaz.smart.store/)
+- [x]	EGTAZ Online Grocery Apps with admin panel[ EGTAZ Smart Commerce](https://www.egtaz.com/products/smart-commerce/)
+- [x]	Pixels App [GitHub Link](https://github.com/Mohamed-7018/Pixels-App/) , [App Link](https://play.google.com/store/apps/details/)
+- [x]	Code Handbook App [ GitHub Link](https://github.com/Mohamed-7018/Samir-Code-HandBook/)
+- [x]	IEEE BUSB App [ Our App ](https://github.com/Mohamed-7018/Samir-Code-HandBook](https://user-images.githubusercontent.com/80456446/124984858-044fdd80-e03a-11eb-908b-e05f4ca8edd6.mp4)/)
+- [x]	Students Attendance App [The owner keeps it private for his students only] 
 
 
-Hint : Some apps are in my github and Most of the projects which are mentioned here are not open source, I can show it to you in the interview if you want. 
-You can also find more projects in my github and it is not mentioned here because it's not published as a complete app
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
