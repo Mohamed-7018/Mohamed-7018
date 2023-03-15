@@ -143,7 +143,7 @@ To get more information about me and my technical skill please visit my website 
 - [ ]	Smart-Home app with VOLTX (will be published soon) 
 - [ ]	Smart-Irrigation app with VOLTX (will be published soon) 
 - [x]	Space Rocket Calculations App – Samra University [Project Link](https://github.com/Mohamed-7018/Rcoket-Design-App---Samara---Space-Engineering-and-technology-internship---Winter-Space-School/)
-- [x]	EGTAZ Multi-Vendor Ecommerce with admin panel [LADISTAA Store](https://play.google.com/store/apps/details?id=com.ladistaa.egtaz.smart.store/)
+- [x]	EGTAZ Multi-Vendor Ecommerce with admin panel [LADISTAA Store](https://play.google.com/store/apps/details?id=com.ladistaa.egtaz.smart.store)
 - [x]	EGTAZ Online Grocery Apps with admin panel[ EGTAZ Smart Commerce](https://www.egtaz.com/products/smart-commerce/)
 - [x]	Pixels App [GitHub Link](https://github.com/Mohamed-7018/Pixels-App/) , [App Link](https://play.google.com/store/apps/details/)
 - [x]	Code Handbook App [ GitHub Link](https://github.com/Mohamed-7018/Samir-Code-HandBook/)
