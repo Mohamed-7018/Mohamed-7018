@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 🌍,  I'm Mohamed Samir Salem!👋 </h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Software Engineer || Competitive Programmer </h3>
 
 
 <a href="https://www.facebook.com/mohamed.almasri.5686/">
@@ -53,6 +53,29 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 <br>
 
 
+<h1 align="center">🌍 Work Experience 🌍 </h1>
+
+- [x] SOFTWRE ENGINEER, VOLTX<br />
+5/2022 – Present<br />
+    &nbsp;&nbsp;o Mobile Development using Flutter framework.<br />
+    &nbsp;&nbsp;o Handling real time API and cloud messaging.<br />
+    &nbsp;&nbsp;o Handling with third party APIs (google auth – Facebook auth – Facebook graph API).<br />
+    &nbsp;&nbsp;o Creating & Maintaining technology at the backend of the apps<br />
+    &nbsp;&nbsp;o Dealing with google script
+
+- [x] SOFTWRE ENGINEER , EGTAZ<br/>
+12/2021 – 3/2023 (Project based – Part time)<br />
+  &nbsp;&nbsp;o Mobile Development using Flutter framework.<br />
+  &nbsp;&nbsp;o Handling cloud messaging.<br />
+  &nbsp;&nbsp;o Dealing with Sqflite (local database) and APIs.<br />
+  &nbsp;&nbsp;o Handling with third party APIs (google auth – Facebook auth – Facebook graph API).<br />
+
+- [x] MOBILE DEVELOPER, KHEIR, BARAKA, AND NEW WOMAN FOUNDATION<br/>
+08/2021 – 12/2021(Internship)<br />
+  &nbsp;&nbsp;o Mobile Development using Flutter framework.<br />
+
+
+  
 <h1 align="center">🌍 My Profile 🌍 </h1>
 To get more information about me and my technical skill please visit my website or download my portfolio app.
 
@@ -155,7 +178,14 @@ To get more information about me and my technical skill please visit my website 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-7018&theme=jolly)<br/>
 
-<h1 align="center">
+<h1 align="center">🌍    MY  GRADUARION PROJECTS   🌍 </h1>
+Our graduation project was smart home devices, depend on the technology of wireless products which can be easily installed and not modifying the already established electrical circuits. The home is controlled from cross platform app whether Internet service is available or not with the ability to add scenes. The system also includes extra features like power management and voice assistance using ML.
+
+
+My Responsibility was to build the app and manage the database and APIs.
+[Our Website](https://newfoldergp.000webhostapp.com/?fbclid=IwAR28OB3uM_CMzBiqyeQ8vvO7JpjLFdFCv5cmQNFRWH9pzZoPHHlLTPFWjvg) || [App Screenshots](https://drive.google.com/drive/folders/11CMyTCBLJVtmfvSzhbr7jFCtuXHdqSCR)
+
+<h1 align="center">🌍   
  MY  AWESOME PROJECTS   🌍 </h1>
 
 - [x]	Multi-Vendor Ecommerce app & Firebase  Ecommerce || Tools : Flutter - dart - google app script - firebase || Link: [Flutter Awesome](https://flutterawesome.com/ecommerce-app-with-firebase-and-flutter/)
