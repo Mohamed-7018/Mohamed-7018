@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 🌍,  I'm Mohamed Samir Salem!👋 </h1>
-<h3 align="center">Software Engineer || Flutter Developer</h3>
+<h3 align="center">Software Engineer </h3>
 
 
 <a href="https://www.facebook.com/mohamed.almasri.5686/">
@@ -83,6 +83,33 @@ To get more information about me and my technical skill please visit my website 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-7018&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
 <br/>
 
+**Programming skills:**
+- Problem Solving, competitive programming.
+- Flutter, Dart
+- Design Pattern (MVC -MVVM – BLOC
+- Architecture – Clean Architecture)
+- S.O.L.I.D principals
+- OOP, structure programming
+- Data structure & Algorithms
+- State management (BLOC–Provider –Get)
+- SQLite & Dealing with REST API
+- Dealing with Google Maps APIs
+- Dealing with Payment gateways APIs
+- Firebase, Google cloud services
+- Google App Script
+- Git/GitHub
+- C/C++, Python, Java, MATLAB & Simulink
+- Embedded Systems (C/Linux)
+- Agile, Waterfall
+
+**Problem Solving badges:**
+- Gold level on C++, HackerRank
+- Gold level on python, HackerRank
+- Silver level on C, HackerRank
+- 900+ problem solved, Codeforces.
+- Pupil rated in codeforces.
+- 8,234,143 points on hashcode 2021
+
 **Languages and Tools:**
 
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -109,6 +136,8 @@ To get more information about me and my technical skill please visit my website 
 
 <br/>
 
+
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Mohamed-7018/github-readme-stats)*
 
 
@@ -126,29 +155,25 @@ To get more information about me and my technical skill please visit my website 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-7018&theme=jolly)<br/>
 
-<h1 align="center"><code><img height="50px" src="https://user-images.githubusercontent.com/80456446/225200420-f3835075-e0e5-4ccb-983a-487b326bb549.png"></code>
- MY FLUTTER AWESOME PROJECTS   🌍 </h1>
+<h1 align="center">
+ MY  AWESOME PROJECTS   🌍 </h1>
 
-- [x]	Multi-Vendor Ecommerce app & Firebase  Ecommerce - [Flutter Awesome](https://flutterawesome.com/ecommerce-app-with-firebase-and-flutter/)
-- [x]	Muslim Guide App: Muslim Guide App - [Flutter Awesome](https://flutterawesome.com/muslim-guide-app-built-with-flutter/)
-- [x] Coca Cola Animates Splash Screen - [Flutter Awesome](https://flutterawesome.com/simple-animated-cola-splash-screen-as-shown-below/)
-- [x]	Flurry Drawer: Flurry Drawer - [Flutter Awesome](https://flutterawesome.com/a-beautful-drawer-for-flutter/)
-- [x]	Draggable_customized_btn_navy_bar package [pub.dev ](https://pub.dev/packages/draggable_customized_btn_navy_bar), [Flutter Awesome](https://flutterawesome.com/a-bottom-navigation-bar-that-you-can-customize-with-the-options-you-need/)
+- [x]	Multi-Vendor Ecommerce app & Firebase  Ecommerce || Tools : Flutter - dart - google app script - firebase || Link: [Flutter Awesome](https://flutterawesome.com/ecommerce-app-with-firebase-and-flutter/)
+- [x]	Muslim Guide App: Muslim Guide App || Tools : Flutter - dart - google app script - firebase - third party API || Link : [Flutter Awesome](https://flutterawesome.com/muslim-guide-app-built-with-flutter/)
+- [x] Coca Cola Animates Splash Screen || Tools: Flutter - dart || Link: [Flutter Awesome](https://flutterawesome.com/simple-animated-cola-splash-screen-as-shown-below/)
+- [x]	Flurry Drawer: Flurry Drawer || Tool : Flutter - dart || Link: [Flutter Awesome](https://flutterawesome.com/a-beautful-drawer-for-flutter/)
+- [x]	Draggable_customized_btn_navy_bar package || Tools : Flutter - dart || Link: [pub.dev ](https://pub.dev/packages/draggable_customized_btn_navy_bar), [Flutter Awesome](https://flutterawesome.com/a-bottom-navigation-bar-that-you-can-customize-with-the-options-you-need/)
 
-
-<h1 align="center"><code><img height="50px" src="https://user-images.githubusercontent.com/80456446/225202053-7afc6eec-2365-4ea2-ae65-0b4ffcd1bce6.png"></code>
- MY FLUTTER AWESOME PROJECTS   🌍 </h1>
-
-- [x] Makers Creed Website - [Website Link](https://makerscreed.net/)
-- [ ]	Smart-Home app with VOLTX (will be published soon) 
-- [ ]	Smart-Irrigation app with VOLTX (will be published soon) 
-- [x]	Space Rocket Calculations App – Samra University [Project Link](https://github.com/Mohamed-7018/Rcoket-Design-App---Samara---Space-Engineering-and-technology-internship---Winter-Space-School/)
-- [x]	EGTAZ Multi-Vendor Ecommerce with admin panel [LADISTAA Store](https://play.google.com/store/apps/details?id=com.ladistaa.egtaz.smart.store)
-- [x]	EGTAZ Online Grocery Apps with admin panel[ EGTAZ Smart Commerce](https://www.egtaz.com/products/smart-commerce/)
-- [x]	Pixels App [GitHub Link](https://github.com/Mohamed-7018/Pixels-App/) , [App Link](https://play.google.com/store/apps/details/)
+- [x] Makers Creed Website || Tools:Flutter - dart - google app script - thirdparty API - firebase || Link: [Website Link](https://makerscreed.net/)
+- [x]	Space Rocket Calculations App Samra University||  Tools:Flutter - dart - google app script - thirdparty API - firebase || Linl: [Project Link](https://github.com/Mohamed-7018/Rcoket-Design-App---Samara---Space-Engineering-and-technology-internship---Winter-Space-School/)
+- [x]	Pixels App ||  Tools:Flutter - dart - google app script || Link : [GitHub Link](https://github.com/Mohamed-7018/Pixels-App/) , [App Link](https://play.google.com/store/apps/details/)
 - [x]	Code Handbook App [ GitHub Link](https://github.com/Mohamed-7018/Samir-Code-HandBook/)
 - [x]	IEEE BUSB App [ Our App ](https://github.com/Mohamed-7018/Samir-Code-HandBook](https://user-images.githubusercontent.com/80456446/124984858-044fdd80-e03a-11eb-908b-e05f4ca8edd6.mp4)/)
-- [x]	Students Attendance App [The owner keeps it private for his students only] 
+- [x] Dabo PR Robot || Tools: C/C++ – Arduino || Link: [ GitHub Link ](https://github.com/Mohamed-7018/Danbo-PR-Robot-V1.0)
+- [x] Smart Glove || Tools: C/C++ – Arduino || Link: [ Code Link ] (https://github.com/Mohamed-7018/Samrt-Glove-/tree/main), [Project on TV ](https://www.youtube.com/watch?v=pfj3uAC5kD0&list=PLy8wlMYqB2WxcivkfnzgsTHAwea9Oxnzd)
+- [x] POV Display || Tools: C/C++ – Embedded (STM) || Link: [ GitHub Link ](https://github.com/Mohamed-7018/POV-Display)
+- [x] Crawling Robot with reinforcement learning algorithm|| Tools: C/C++ –Arduino || Link: [ GitHub Link ](https://github.com/Mohamed-7018/Crawling-Robot-with-ML)
+- [x] Python game using pygame, controlled with glove || Tools: C/C++ –Arduino – Python - Pygame || Link: [ GitHub Link ](https://github.com/Mohamed-7018/Python-game-controlled-with-glove-using-MPU)
 
 
 ### ✍️Random Dev Quote
