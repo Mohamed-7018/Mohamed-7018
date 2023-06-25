@@ -23,9 +23,10 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
-###  Hello world!&nbsp;<img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" height="70px">
+###  Hello world!
+<!---&nbsp;<img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" height="70px">
 
-
+--->
 <p>
   <em>
     My story of loving programming starts since I wrote my first hello worldin C++ and my love to this track is still growing day after another, till this moment. I currently working as a flutter developer and the reason I love flutter is that I love designing UI. For me, the more beautiful the app looked, the more time the user liked to spend in. So, mixing between a clean, well organized code and a beautiful, user-friendly app design is my main goal in my career. 
@@ -45,10 +46,13 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 <br /> -->
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" height="20px" /> *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif"  height="20px" /> I’m **good** in **Flutter mobile apps development, Front End Development, UI** and **Backend Development, Flutter**💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> I’m *looking to collaborate* on **Flutter projects** 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif"  height="20px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
+-
+  <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" height="20px" /> --->
+  *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
+- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif"  height="20px" /> --->
+  I’m **good** in **Flutter mobile apps development, Front End Development, UI** and **Backend Development, Flutter**💪.
+- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> ---> I’m *looking to collaborate* on **Flutter projects** 
+- <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif"  height="20px" />---> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
 -  📚 I’m currently learning database (web backend) with java spring boot framework
 <br>
 
