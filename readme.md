@@ -61,22 +61,38 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 
 - [x] SOFTWRE ENGINEER, VOLTX<br />
 5/2022 – Present<br />
-    &nbsp;&nbsp;o Mobile Development using Flutter framework.<br />
-    &nbsp;&nbsp;o Handling real time API and cloud messaging.<br />
-    &nbsp;&nbsp;o Handling with third party APIs (google auth – Facebook auth – Facebook graph API).<br />
-    &nbsp;&nbsp;o Creating & Maintaining technology at the backend of the apps<br />
-    &nbsp;&nbsp;o Dealing with google script
+    &nbsp;&nbsp;-	Designed, implemented, and tested Flutter and Dart code for iOS, Android, web, and macOS.<br />
+    &nbsp;&nbsp;-	Managed real-time API integration and cloud messaging.<br />
+    &nbsp;&nbsp;-	Responsible for creating and maintaining technology at the backend of applications.<br />
+    &nbsp;&nbsp;-	Automated manual reporting system (Design + Implementation).<br />
+    &nbsp;&nbsp;-	Dealing with third-party APIs, Google script, and Google Cloud services.<br />
+    &nbsp;&nbsp;-	First and second contributor in many projects.<br />
+    &nbsp;&nbsp;- Lead the onCall and the OE (Operational Excellence) a week every 1.5 months.<br />
+    &nbsp;&nbsp;-	Mentor of 1 intern.<br />
+    &nbsp;&nbsp;- Onboarding body of a newcomer software engineer.<br />
 
+
+- [x] TEACHING ASSISTANT , FACULTY OF ENGINEERING, HELWAN UNIVERSITY<br/>
+12/2022 – PRESENT (Project based – Part time)<br />
+ &nbsp;&nbsp;	Assisting in course content delivery, facilitating lab sessions, guiding students through technical concepts, and grading assignments.
+
+  
 - [x] SOFTWRE ENGINEER , EGTAZ<br/>
-12/2021 – 3/2023 (Project based – Part time)<br />
-  &nbsp;&nbsp;o Mobile Development using Flutter framework.<br />
-  &nbsp;&nbsp;o Handling cloud messaging.<br />
-  &nbsp;&nbsp;o Dealing with Sqflite (local database) and APIs.<br />
-  &nbsp;&nbsp;o Handling with third party APIs (google auth – Facebook auth – Facebook graph API).<br />
+12/2021 – 5/2022 (Project based – Part time)<br />
+ &nbsp;&nbsp;- Designed, implemented, and tested Flutter and Dart code for iOS, Android, web, and macOS.<br />
+ &nbsp;&nbsp;- Native programming.<br />
+ &nbsp;&nbsp;- Dealing with Rest APIs, Google script, and Google Cloud services.<br />
+ &nbsp;&nbsp;- Participated in the code review, solved many issues, and Worked on the backend of the e-commerce project.<br />
 
-- [x] MOBILE DEVELOPER, KHEIR, BARAKA, AND NEW WOMAN FOUNDATION<br/>
-08/2021 – 12/2021(Internship)<br />
-  &nbsp;&nbsp;o Mobile Development using Flutter framework.<br />
+
+- [x] FOUNDER AND COACHICPC HELWAN UNIVERSITY<br/>
+VOLUNTEERING<br />
+  &nbsp;&nbsp; Coach ICPC Helwan University community heads and instructors.
+- [x] Academic Instructor, Projects head, Flutter head, PIXELS EGYPT & IEEE BUSB <br/>
+VOLUNTEERING<br />
+  &nbsp;&nbsp; -	Affected students with the best practice as a flutter and problem-solving instructor.<br/>
+  &nbsp;&nbsp; - OOP, SOLID, Design Pattern Instructor.<br/>       
+
 
 
   
@@ -111,28 +127,11 @@ To get more information about me and my technical skill please visit my website 
 <br/>
 
 **Programming skills:**
-- Problem Solving, competitive programming.
-- Flutter, Dart
-- Design Pattern (MVC -MVVM – BLOC
-- Architecture – Clean Architecture)
-- S.O.L.I.D principals
-- OOP, structure programming
-- Data structure & Algorithms
-- State management (BLOC–Provider –Get)
-- SQLite & Dealing with REST API
-- Dealing with Google Maps APIs
-- Dealing with Payment gateways APIs
-- Firebase, Google cloud services
-- Google App Script
-- Git/GitHub
-- C/C++, Python, Java, MATLAB & Simulink
-- Embedded Systems (C/Linux)
-- Agile, Waterfall
+Problem-Solving, Algorithms, Data Structures, OOP, SOLID, OOD, Design patterns, C, C++, Dart, PYTHON, JAVA, Google Cloud, GIT, System Design, SQLite & REST/Graph API, Agile/Waterfall, Documentation,
 
 **Problem Solving badges:**
-- Gold level on C++, HackerRank
-- Gold level on python, HackerRank
-- Silver level on C, HackerRank
+- HackerRank : Gold level in C++, Java, and Python, 30 days of code, and problem-solving.
+-  HackerRank :Silver level on C,SQL.
 - 900+ problem solved, Codeforces.
 - Pupil rated in codeforces.
 - 8,234,143 points on hashcode 2021
@@ -152,8 +151,9 @@ To get more information about me and my technical skill please visit my website 
 <code><img height="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9w2hD0G4S57Mtr2NWvkUpRFIIhtVgDQkn7UgJ8QHjUdmzQ4DyeCJCCmkM9QZXXJyskdk&usqp=CAU"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="24px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="24px" src="https://logos-download.com/wp-content/uploads/2019/01/Stack_Overflow_Logo.png"></code>
 
