@@ -17,7 +17,9 @@
 <a href="https://www.instagram.com/mohamed_samir_7018/">
  <img align="left" alt="HackerRank" width="34px" src="https://user-images.githubusercontent.com/80456446/140470099-0233261b-373f-43f3-80e4-6be8ff9c9438.png"/> 
 </a>
-
+<a href="https://codeforces.com/profile/_Depressed">
+ <img align="left" alt="Codeforces" width="180px" src="/assets/Codeforces_logo.svg.png"/> 
+</a>
 <br/>
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
@@ -29,11 +31,10 @@
 --->
 <p>
   <em>
-    My story of loving programming starts since I wrote my first hello worldin C++ and my love to this track is still growing day after another, till this moment. I currently working as a flutter developer and the reason I love flutter is that I love designing UI. For me, the more beautiful the app looked, the more time the user liked to spend in. So, mixing between a clean, well organized code and a beautiful, user-friendly app design is my main goal in my career. 
+    My story of loving programming starts since I wrote my first hello worldin C++ and my love to this track is still growing day after another, till this moment. 
     
-Give people a wonderful tools and they will do a wonderful things . This is my passion in life, I really love making useful apps and making it the most beautiful looked to make the user like to use the user-friendly design apps dialy without getting bored.
     
-I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel.
+I am a friendly Neighborhood Software Engineer and a Learning Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel.
 
   </em>  
 </p>
@@ -49,11 +50,8 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 -
   <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" height="20px" /> --->
   *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
-- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif"  height="20px" /> --->
-  I’m **good** in **Flutter mobile apps development, Front End Development, UI** and **Backend Development, Flutter**💪.
-- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> ---> I’m *looking to collaborate* on **Flutter projects** 
-- <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif"  height="20px" />---> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
--  📚 I’m currently learning database (web backend) with java spring boot framework
+- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> ---> 📚I’m looking to collaborate on Software projects 
+- <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif"  height="20px" />---> Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👩‍💻.
 <br>
 
 
@@ -61,38 +59,37 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 
 - [x] SOFTWRE ENGINEER, VOLTX<br />
 5/2022 – Present<br />
-    &nbsp;&nbsp;-	Designed, implemented, and tested Flutter and Dart code for iOS, Android, web, and macOS.<br />
-    &nbsp;&nbsp;-	Managed real-time API integration and cloud messaging.<br />
-    &nbsp;&nbsp;-	Responsible for creating and maintaining technology at the backend of applications.<br />
-    &nbsp;&nbsp;-	Automated manual reporting system (Design + Implementation).<br />
-    &nbsp;&nbsp;-	Dealing with third-party APIs, Google script, and Google Cloud services.<br />
-    &nbsp;&nbsp;-	First and second contributor in many projects.<br />
-    &nbsp;&nbsp;- Lead the onCall and the OE (Operational Excellence) a week every 1.5 months.<br />
-    &nbsp;&nbsp;-	Mentor of 1 intern.<br />
-    &nbsp;&nbsp;- Onboarding body of a newcomer software engineer.<br />
+    &nbsp;&nbsp;- Owner of the smart home cross-platform [[Android](https://play.google.com/store/apps/details?id=com.intelli.samir.smartbuilding&hl=en&gl=US) & [iOS](https://apps.apple.com/tr/app/intelli-smart-home/id6467123402)] app and smart irrigation [web app](https://demo.raitech-eg.com/), [RAI-TECH website](https://raitech-eg.com/):<br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Owned the system design and led the implementation of the app & backend, reducing server cost by 20% & app size by 50%.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Revamped legacy code of some API gateways, reducing latency by 53%.<br />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Led the DevOps team to optimize CI/CD pipelines, cutting down deployment time by 45%.<br />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Mentor two interns, reducing the operational cost by 12%.<br />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Flutter, Dart, Java Spring boot, real-time APIs, Google Script, cloud messaging, Google Cloud services, MySQL.<br />
+&nbsp;&nbsp;-	Secondary contributor to many projects.<br />
+&nbsp;&nbsp;-	Part of the on-call rotation & Led the OE during my rotation<br />
+
 
 
 - [x] TEACHING ASSISTANT , FACULTY OF ENGINEERING, HELWAN UNIVERSITY<br/>
 12/2022 – PRESENT (Project based – Part time)<br />
- &nbsp;&nbsp;	Assisting in course content delivery, facilitating lab sessions, guiding students through technical concepts, and grading assignments.
+&nbsp;&nbsp;-	Assisting in course content delivery, facilitating lab sessions, and grading assignments.<br />
+&nbsp;&nbsp;-Led the sessions of many technical tracks like Problem-solving, Flutter, and Embedded C since I was an Undergraduate student.<br />
+&nbsp;&nbsp;-	Coach ICPC Helwan University community heads and instructors.<br />
+&nbsp;&nbsp;-	Contributed to research and the implementation of “adaptive traffic control with deep learning” research.<br />
 
   
 - [x] SOFTWRE ENGINEER , EGTAZ<br/>
 12/2021 – 5/2022 (Project based – Part time)<br />
- &nbsp;&nbsp;- Designed, implemented, and tested Flutter and Dart code for iOS, Android, web, and macOS.<br />
- &nbsp;&nbsp;- Native programming.<br />
- &nbsp;&nbsp;- Dealing with Rest APIs, Google script, and Google Cloud services.<br />
- &nbsp;&nbsp;- Participated in the code review, solved many issues, and Worked on the backend of the e-commerce project.<br />
+ &nbsp;&nbsp;- Collaborated with external customers to gather clear requirements.<br />
+ &nbsp;&nbsp;- Worked with an agile team to deliver projects to customers on time, reducing the delivery time by 25%.<br />
+ &nbsp;&nbsp;- Google cloud services, Flutter, PHP Laravel, Kotlin, Swift.<br />
 
+      
 
-- [x] FOUNDER AND COACHICPC HELWAN UNIVERSITY<br/>
-VOLUNTEERING<br />
-  &nbsp;&nbsp; Coach ICPC Helwan University community heads and instructors.
-- [x] Academic Instructor, Projects head, Flutter head, PIXELS EGYPT & IEEE BUSB <br/>
-VOLUNTEERING<br />
-  &nbsp;&nbsp; -	Affected students with the best practice as a flutter and problem-solving instructor.<br/>
-  &nbsp;&nbsp; - OOP, SOLID, Design Pattern Instructor.<br/>       
-
+- [x] SOFTWRE ENGINEER , Samara University Winter Space School<br/>
+(INTERNSHIP)<br />
+ &nbsp;&nbsp;- Designed a cross-platform app using the Flutter framework to calculate rocket design parameters. [[Project Link](https://github.com/Mohamed-7018/Rcoket-Design-App---Samara---Space-Engineering-and-technology-internship---Winter-Space-School)]<br />
+&nbsp;&nbsp;-	API Gateways, real-time APIs, and cloud messaging for accessing archives and upcoming rocket launches.<br />
 
 
   
@@ -126,14 +123,14 @@ To get more information about me and my technical skill please visit my website 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-7018&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
 <br/>
 
-**Programming skills:**
-Problem-Solving, Algorithms, Data Structures, OOP, SOLID, OOD, Design patterns, C, C++, Dart, PYTHON, JAVA, Google Cloud, GIT, System Design, SQLite & REST/Graph API, Agile/Waterfall, Documentation,
+**Programming skills:**<br/>
+System Design, High standard code, Code review, Clean code, Testing, Problem-Solving, Algorithms, Data Structures, SQL DB, NO-SQL DB, SQLite, REST API, Graph API, OOP, OOD, SOLID principles, Design patterns, C++, Dart, Flutter, Python, Java, Java script, Spring boot, Google Cloud, GIT, GitHub, Agile / Waterfall, CI/CD, Software development flavors, Documentation, Teamwork / Collaboration.
 
 **Problem Solving badges:**
 - HackerRank : Gold level in C++, Java, and Python, 30 days of code, and problem-solving.
 -  HackerRank :Silver level on C,SQL.
 - 900+ problem solved, Codeforces.
-- Pupil rated in codeforces.
+- Specialist rated in codeforces.
 - 8,234,143 points on hashcode 2021
 
 **Languages and Tools:**
@@ -192,7 +189,8 @@ My Responsibility was to build the app and manage the database and APIs.
 <h1 align="center">🌍   
  MY  AWESOME PROJECTS   🌍 </h1>
 
-- [x]	Multi-Vendor Ecommerce app & Firebase  Ecommerce || Tools : Flutter - dart - google app script - firebase || Link: [Flutter Awesome](https://flutterawesome.com/ecommerce-app-with-firebase-and-flutter/)
+- [x]   Full Stack E-commerce || Tools : Flutter - dart - java spring boot || link : [github](https://github.com/Mohamed-7018/stylish_ecommerce)                                    
+- [ ]		Multi-Vendor Ecommerce app & Firebase  Ecommerce || Tools : Flutter - dart - google app script - firebase || Link: [Flutter Awesome](https://flutterawesome.com/ecommerce-app-with-firebase-and-flutter/)
 - [x]	Muslim Guide App: Muslim Guide App || Tools : Flutter - dart - google app script - firebase - third party API || Link : [Flutter Awesome](https://flutterawesome.com/muslim-guide-app-built-with-flutter/)
 - [x] Coca Cola Animates Splash Screen || Tools: Flutter - dart || Link: [Flutter Awesome](https://flutterawesome.com/simple-animated-cola-splash-screen-as-shown-below/)
 - [x]	Flurry Drawer: Flurry Drawer || Tool : Flutter - dart || Link: [Flutter Awesome](https://flutterawesome.com/a-beautful-drawer-for-flutter/)
