@@ -18,7 +18,7 @@
  <img align="left" alt="HackerRank" width="34px" src="https://user-images.githubusercontent.com/80456446/140470099-0233261b-373f-43f3-80e4-6be8ff9c9438.png"/> 
 </a>
 <a href="https://codeforces.com/profile/_Depressed">
- <img align="left" alt="Codeforces" width="180px" src="/assets/codeforces.svg.png"/> 
+ <img align="left" alt="Codeforces" width="180px" src="/assets/codeforces.png"/> 
 </a>
 <br/>
 <!-- 
