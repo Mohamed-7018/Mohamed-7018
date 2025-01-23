@@ -37,20 +37,23 @@
   </em>  
 </p>
 
-<!-- <a href="https://discord.com/invite/aNEPJcP">
-  <img align="left" alt="Mohamed-7018's Discord" width="24px" src="/assets/discord.svg"/> -->
-<!-- </a> -->
 
-<!-- <br />
-<br /> -->
-<br>
+<details>
+  <summary>🧑 More about me</summary>
+  
 
 -
   <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" height="20px" /> --->
   *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
-- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> ---> 📚I’m looking to collaborate on Software projects 
-- <!---<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif"  height="20px" />---> Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👩‍💻.
-<br>
+- <!--- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif"  height="20px" /> ---> 📚I’m looking to collaborate on Software projects🤝
+
+
+- 👨‍💻  Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👩‍💻
+
+- 📫 Reach me out at **mohamedkhalilalmasri@gmail.com**
+
+</details>
+
 
  
 
@@ -65,6 +68,7 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-7018&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
 <br/>
+
 
 **Programming skills:**<br/>
 System Design, High standard code, Code review, Clean code, Testing, Problem-Solving, Algorithms, Data Structures, SQL DB, NO-SQL DB, SQLite, REST API, Graph API, OOP, OOD, SOLID principles, Design patterns, C++, Dart, Flutter, Python, Java, Java script, Spring boot, Google Cloud, GIT, GitHub, Agile / Waterfall, CI/CD, Software development flavors, Documentation, Teamwork / Collaboration.
